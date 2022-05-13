@@ -78,13 +78,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=raazor1337&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+<br/>   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leooh1337&cover_image=true&theme=default" /></div>  
 
