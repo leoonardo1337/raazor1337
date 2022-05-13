@@ -24,31 +24,6 @@
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Prefeitura de Cajamar](https://www.linkedin.com/company/prefeitura-municipal-de-cajamar/mycompany/)  
-  
-
-- 🌱 I’m currently learning React and Python  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I do drawings as a hobby  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
