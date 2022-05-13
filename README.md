@@ -15,6 +15,23 @@
 
 
 ### Glad to see you here!  
+
+<table><tr><td valign="top" width="50%">
+
+☄️ I've been developing on the .Net platform since 2014, I've always had the profile for the technology area, due to the great interest, with 13 years of studying my path in web development.
+
+🚀 Since then I have focused my career on the .Net platform. I graduated as a Systems Development technician at ETEC Vasco Antônio Venchiarutti in the city of Jundiaí - SP in 2019, and today I am studying Systems Analysis and Development at Universidade Paulista (UNIP).
+
+🌎 I am good-humored, with great facility in the exact area, and my main qualities are flexible, flexible and optimism, which make me adapt easily to new environments and situations. Today I work mainly with Web and Mobile Development being the Full-Time Full-Stack Developer at the City Hall of Cajamar.  
+  
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leooh1337&cover_image=true&theme=default" /></div>
+
+</td></tr></table>  
+
+
+
 ☄️ I've been developing on the .Net platform since 2014, I've always had the profile for the technology area, due to the great interest, with 13 years of studying my path in web development.
 
 🚀 Since then I have focused my career on the .Net platform. I graduated as a Systems Development technician at ETEC Vasco Antônio Venchiarutti in the city of Jundiaí - SP in 2019, and today I am studying Systems Analysis and Development at Universidade Paulista (UNIP).
@@ -71,7 +88,7 @@
 
   
 
-<br/> <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leooh1337&cover_image=true&theme=default" /></div> <br/> 
+<br/>  <br/> 
 
   
 
