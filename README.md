@@ -16,7 +16,7 @@
 
 ### Glad to see you here!  
 
-<table style="border: none !important"><tr><td valign="center" width="70%">
+<table style="border: none !important"><tr><td valign="center" width="80%">
 
 ☄️ I've been developing on the .Net platform since 2014, I've always had the profile for the technology area, due to the great interest, with 13 years of studying my path in web development.
 
@@ -24,7 +24,7 @@
 
 🌎 I am good-humored, with great facility in the exact area, and my main qualities are flexible, flexible and optimism, which make me adapt easily to new environments and situations. Today I work mainly with Web and Mobile Development being the Full-Time Full-Stack Developer at the City Hall of Cajamar.  
   
-</td><td valign="center" width="30%">
+</td><td valign="center" width="20%">
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leooh1337&cover_image=true&theme=default" /></div>
 
